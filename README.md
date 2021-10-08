@@ -3,7 +3,7 @@
 
 All About Me
 
-- 🔭 I’m currently working on --> JS/React
+- 🔭 I’m currently working on --> React Native
 - 🌱 I’m currently learning --> TailwindCSS,Next.js,Node,Express
 -    I worked on --> C#,Blazor,Asp.Net Core
 - 👯 I’m looking to collaborate on --> Fabric.Js 
